@@ -1,0 +1,3 @@
+[submodule "vagrant-ubuntu-docker"]
+	path = vagrant-ubuntu-docker
+	url = git@github.com:alv67/vagrant-ubuntu-docker.git
